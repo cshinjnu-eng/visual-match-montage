@@ -1,0 +1,4 @@
+interface:
+  display_name: "视觉穿越与配乐混剪"
+  short_description: "从参考图生成跨题材构图呼应，检查视觉锚点与真实性，再制作配乐混剪"
+  default_prompt: "使用 $visual-match-montage，把我的参考图发展为有主题和大跨度两组代表样图，检查构图与主体可信度，给我看样图选择后再扩展。"
